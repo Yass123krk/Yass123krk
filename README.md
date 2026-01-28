@@ -1,15 +1,15 @@
 # 💫 About Me:
-## 🔭I’m currently working on: Designing and refining **data engineering and analytics projects** using **PySpark**, **SQL**, and **BI tools**, with a strong focus on **scalable data processing**, **data quality**, and **performance optimization**.<br><br>
+**🔭I’m currently working on:** Designing and refining **data engineering and analytics projects** using **PySpark**, **SQL**, and **BI tools**, with a strong focus on **scalable data processing**, **data quality**, and **performance optimization**.<br><br>
 
-## 🤝 I’m looking to collaborate on: **Data Engineering**, **Big Data analytics**, **Machine Learning applications**, and **real-world data-driven solutions** delivering measurable business impact.<br><br>
+**🤝 I’m looking to collaborate on:** **Data Engineering**, **Big Data analytics**, **Machine Learning applications**, and **real-world data-driven solutions** delivering measurable business impact.<br><br>
 
-## 🆘 I’m looking for help with: Best practices for **large-scale distributed systems**, **production-grade data pipelines**, and **cloud-oriented data platforms**.<br><br>
+**🆘 I’m looking for help with:** Best practices for **large-scale distributed systems**, **production-grade data pipelines**, and **cloud-oriented data platforms**.<br><br>
 
-## 🌱 I’m currently learning: Advanced **Spark optimization**, **scalable machine learning workflows**, and **modern data architectures** for analytics and decision-making at scale.<br><br>
+**🌱 I’m currently learning:** Advanced **Spark optimization**, **scalable machine learning workflows**, and **modern data architectures** for analytics and decision-making at scale.<br><br>
 
-## 💬 Ask me about: **PySpark**, **SQL**, **Data Analytics**, **Business Intelligence**, **ETL pipelines**, and transforming complex datasets into **actionable insights**.<br><br>
+**💬 Ask me about:** **PySpark**, **SQL**, **Data Analytics**, **Business Intelligence**, **ETL pipelines**, and transforming complex datasets into **actionable insights**.<br><br>
 
-## ⚡ Fun fact: I started my academic journey in **applied mathematics and physics for engineering** before fully transitioning into **data engineering and analytics**.
+**⚡ Fun fact:** I started my academic journey in **applied mathematics and physics for engineering** before fully transitioning into **data engineering and analytics**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasser-el-karkouri) 
