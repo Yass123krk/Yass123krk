@@ -1,9 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>
-Designing and refining **data engineering and analytics projects** using **PySpark**, **SQL**, and **BI tools**, with a strong focus on **scalable data processing**, **data quality**, and **performance optimization**.<br><br>
+##🔭I’m currently working on: Designing and refining **data engineering and analytics projects** using **PySpark**, **SQL**, and **BI tools**, with a strong focus on **scalable data processing**, **data quality**, and **performance optimization**.<br><br>
 
-🤝 I’m looking to collaborate on<br><br>
-**Data Engineering**, **Big Data analytics**, **Machine Learning applications**, and **real-world data-driven solutions** delivering measurable business impact.<br><br>
+🤝 **I’m looking to collaborate on:** **Data Engineering**, **Big Data analytics**, **Machine Learning applications**, and **real-world data-driven solutions** delivering measurable business impact.<br><br>
 
 🆘 I’m looking for help with<br><br>
 Best practices for **large-scale distributed systems**, **production-grade data pipelines**, and **cloud-oriented data platforms**.<br><br>
